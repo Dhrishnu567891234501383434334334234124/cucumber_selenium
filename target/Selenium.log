@@ -1,0 +1,69 @@
+2022-02-22 20:56:27 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-22 20:56:27 [INFO ] [TestBase] - [after] 
+2022-02-22 20:57:09 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-22 20:57:11 [INFO ] [TestBase] - [before] Chrome
+2022-02-22 20:57:17 [INFO ] [TestBase] - [after] 
+2022-02-22 20:59:46 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-22 20:59:48 [INFO ] [TestBase] - [before] Chrome
+2022-02-22 20:59:53 [INFO ] [TestBase] - [after] 
+2022-02-22 21:02:20 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-22 21:02:23 [INFO ] [TestBase] - [before] Chrome
+2022-02-22 21:03:12 [INFO ] [TestBase] - [after] 
+2022-02-23 00:52:13 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 00:52:16 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 00:52:21 [INFO ] [TestBase] - [after] 
+2022-02-23 00:53:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 00:53:17 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 00:53:22 [INFO ] [TestBase] - [after] 
+2022-02-23 00:56:01 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 00:56:04 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 00:56:11 [INFO ] [TestBase] - [after] 
+2022-02-23 09:59:28 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 09:59:44 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 10:01:48 [INFO ] [TestBase] - [after] 
+2022-02-23 10:04:58 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 10:05:01 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 10:05:15 [INFO ] [TestBase] - [after] 
+2022-02-23 10:07:42 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 10:07:44 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 10:07:51 [INFO ] [TestBase] - [after] 
+2022-02-23 10:08:31 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 10:08:34 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 10:13:17 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 10:13:19 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 10:13:19 [INFO ] [TestBase] - [after] 
+2022-02-23 12:34:07 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 12:34:10 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 12:34:24 [INFO ] [TestBase] - [after] 
+2022-02-23 12:44:56 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 12:44:58 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 12:45:03 [INFO ] [TestBase] - [after] 
+2022-02-23 12:53:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 12:53:14 [INFO ] [TestBase] - [after] 
+2022-02-23 12:54:50 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 12:54:52 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 12:54:57 [INFO ] [TestBase] - [after] 
+2022-02-23 12:58:04 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 12:58:06 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 12:58:12 [INFO ] [WaitHelper] - [waitForElement] element found...
+2022-02-23 12:58:12 [INFO ] [LoginPage] - [setUserNamePassword] entering email address....
+2022-02-23 12:58:12 [INFO ] [LoginPage] - [setUserNamePassword] entering password....
+2022-02-23 12:58:12 [INFO ] [LoginPage] - [clickOnLoginButton] clicking on submit button...
+2022-02-23 12:58:12 [INFO ] [TestBase] - [after] 
+2022-02-23 18:35:55 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 18:35:59 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 18:36:06 [INFO ] [WaitHelper] - [waitForElement] element found...
+2022-02-23 18:36:06 [INFO ] [LoginPage] - [setUserNamePassword] entering email address....
+2022-02-23 18:36:06 [INFO ] [LoginPage] - [setUserNamePassword] entering password....
+2022-02-23 18:36:06 [INFO ] [LoginPage] - [clickOnLoginButton] clicking on submit button...
+2022-02-23 18:36:07 [INFO ] [TestBase] - [after] 
+2022-02-23 23:30:28 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 23:30:31 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 23:30:36 [INFO ] [TestBase] - [after] 
+2022-02-23 23:32:34 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2022-02-23 23:32:36 [INFO ] [TestBase] - [before] Chrome
+2022-02-23 23:32:42 [INFO ] [WaitHelper] - [waitForElement] element found...
+2022-02-23 23:32:42 [INFO ] [LoginPage] - [setUserNamePassword] entering email address....
+2022-02-23 23:32:43 [INFO ] [LoginPage] - [setUserNamePassword] entering password....
+2022-02-23 23:32:43 [INFO ] [LoginPage] - [clickOnLoginButton] clicking on submit button...
+2022-02-23 23:32:47 [INFO ] [TestBase] - [after] 
